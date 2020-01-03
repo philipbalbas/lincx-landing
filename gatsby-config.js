@@ -31,10 +31,12 @@ module.exports = {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
         google: {
-          families: ["Droid Sans", "Droid Serif"],
+          families: ["Open Sans:300,400,700"],
         },
       },
     },
+    `gatsby-plugin-emotion`,
+    `gatsby-plugin-theme-ui`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
