@@ -1,6 +1,5 @@
 /** @jsx jsx */
 
-import { Link } from "gatsby"
 import css from "@styled-system/css"
 
 import Layout from "../components/layout"
@@ -302,7 +301,6 @@ const IndexPage = () => (
         </Text>
       </Box>
     </Flex>
-  
   </Layout>
 )
 

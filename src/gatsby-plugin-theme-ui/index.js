@@ -91,9 +91,19 @@ export const base = {
     primary: {
       color: "primary",
       bg: "muted",
+      transition: "all 0.2s",
       ":hover": {
         bg: "primary",
         color: "secondary",
+      },
+    },
+    secondary: {
+      variant: "buttons.primary",
+      bg: "primary",
+      color: "white",
+      ":hover": {
+        bg: "secondary",
+        color: "white",
       },
     },
     outline: {
@@ -126,12 +136,29 @@ export const base = {
   text: {
     heading: {
       fontFamily: "heading",
+      fontSize: [5, null, 6],
+      mb: 4,
+    },
+    subheading: {
+      fontSize: [3, null, 4],
+      mb: 3,
+    },
+    subheadingCaps: {
+      variant: "text.subheading",
+      textTransform: "uppercase",
     },
     label: {
       color: "black",
       letterSpacing: "1px",
       marginBottom: 2,
       fontSize: 2,
+    },
+    caps: {
+      textTransform: "uppercase",
+    },
+    capsLabel: {
+      variant: "text.caps",
+      mb: 3,
     },
     header: {
       textAlign: "center",
@@ -141,7 +168,12 @@ export const base = {
       color: "gray",
       fontSize: 2,
       letterSpacing: "0.5px",
+      lineHeight: 2,
     },
+  },
+  container: {
+    // px: [2, 6],
+    maxWidth: "1170px",
   },
 }
 

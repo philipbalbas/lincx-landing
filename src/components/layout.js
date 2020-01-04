@@ -2,7 +2,7 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import { Global } from "@emotion/core"
 import { jsx } from "theme-ui"
 
@@ -69,7 +69,9 @@ const Layout = ({ children }) => {
             <div>
               <ul>
                 <li>About Us</li>
-                <li>Careers</li>
+                <li>
+                  <Link to="/careers">Careers</Link>
+                </li>
                 <li>Legal</li>
               </ul>
             </div>
