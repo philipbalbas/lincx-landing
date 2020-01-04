@@ -68,7 +68,9 @@ const Layout = ({ children }) => {
             <Heading variant="label">Company</Heading>
             <div>
               <ul>
-                <li>About Us</li>
+                <li>
+                  <Link to="/about">About Us</Link>
+                </li>
                 <li>
                   <Link to="/careers">Careers</Link>
                 </li>

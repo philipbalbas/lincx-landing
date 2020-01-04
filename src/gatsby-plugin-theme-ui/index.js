@@ -27,6 +27,7 @@ export const base = {
     text: "#000",
     background: "#fff",
     primary: "#0564fe",
+    lightBlue: "#399cee",
     secondary: "#282c47",
     muted: "#f0f6ff",
     black: "#212121",
@@ -146,6 +147,11 @@ export const base = {
     subheadingCaps: {
       variant: "text.subheading",
       textTransform: "uppercase",
+    },
+    quote: {
+      fontSize: 4,
+      color: "black",
+      fontStyle: "italic",
     },
     label: {
       color: "black",
