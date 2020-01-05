@@ -31,7 +31,8 @@ export const base = {
     secondary: "#282c47",
     muted: "#f0f6ff",
     black: "#212121",
-    gray: "#757575",
+    gray: "#999999",
+    lightGray: "#f8f9fa",
   },
   styles: {
     root: {
@@ -135,6 +136,11 @@ export const base = {
     },
   },
   text: {
+    display: {
+      fontSize: [6, null, 7, null],
+      textAlign: "center",
+      mb: [2, 5],
+    },
     heading: {
       fontFamily: "heading",
       fontSize: [5, null, 6],
@@ -176,10 +182,21 @@ export const base = {
       letterSpacing: "0.5px",
       lineHeight: 2,
     },
+    bold: {
+      variant: "text.body",
+      color: "black",
+      fontWeight: "600",
+    },
   },
   container: {
-    // px: [2, 6],
     maxWidth: "1170px",
+    px: [3, null, null, 2],
+  },
+  image: {
+    icon: {
+      mb: 3,
+      borderRadius: "50%",
+    },
   },
 }
 
@@ -194,5 +211,16 @@ export default {
       color: "white",
       backgroundColor: "black",
     },
+    fullWidth: {
+      width: "100vw",
+      position: "relative",
+      marginLeft: "-50vw",
+      left: "50%",
+    },
+    feature: {
+      mb: 4,
+      textAlign: ["center", "left"],
+    },
+    listItem: {},
   },
 }

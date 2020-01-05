@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,0 C15.728,0 22,6.272 22,14 C22,15.0007813 21.8948159,15.9771449 21.6949069,16.9186314 C19.3910263,18.8338743 16.3421465,20 13,20 C5.824,20 0,14.624 0,8 C0,5.48611164 0.838827561,3.15197205 2.27203902,1.22322153 C4.02083269,0.437192092 5.95967084,0 8,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-/-section3-copy" transform="translate(-2.000000, -2.000000)">
+            <g id="Group-3" transform="translate(2.000000, 2.000000)">
+                <path d="M22,0 C9.856,0 0,9.856 0,22 C0,34.144 9.856,44 22,44 C34.144,44 44,34.144 44,22 C44,9.856 34.144,0 22,0 Z" id="Path" fill="#000000"></path>
+                <g id="Group-2" transform="translate(8.000000, 8.000000)">
+                    <path d="M14,0 C6.272,0 0,6.272 0,14 C0,21.728 6.272,28 14,28 C21.728,28 28,21.728 28,14 C28,6.272 21.728,0 14,0 Z" id="Path-Copy" fill="#FFFFFF"></path>
+                    <g id="Group" transform="translate(6.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero">
+                            <g transform="translate(-2.000000, 0.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="20" height="2"></rect>
+                                <rect id="Rectangle-Copy" x="0" y="4" width="24" height="2"></rect>
+                                <rect id="Rectangle-Copy-2" x="0" y="8" width="26" height="2"></rect>
+                                <rect id="Rectangle-Copy-3" x="0" y="12" width="26" height="2"></rect>
+                                <rect id="Rectangle-Copy-4" x="0" y="16" width="26" height="2"></rect>
+                                <rect id="Rectangle-Copy-5" x="0" y="20" width="26" height="2"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

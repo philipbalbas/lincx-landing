@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="488px" height="239px" viewBox="0 0 488 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Graph-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#979797" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Funnels-Copy" transform="translate(-734.000000, -2407.000000)">
+            <rect id="Rectangle" fill="#F8F9FA" x="0" y="1955" width="1440" height="1132"></rect>
+            <g id="Group-15" transform="translate(735.000000, 2401.000000)">
+                <g id="Graph-1">
+                    <polygon id="area" fill-opacity="0.300180288" fill="#3399EE" opacity="0.14578683" points="114 44 242.218619 103.866221 280.910393 103.866221 419 159.384615 419 243.665552 114.135505 244"></polygon>
+                    <g id="Hor-line" transform="translate(0.000000, 49.000000)" stroke="#BDBDBD" stroke-linecap="square" stroke-width="0.570807006">
+                        <line x1="0" y1="194.787891" x2="486.470271" y2="194.787891" id="Line-2"></line>
+                        <line x1="57.4676419" y1="0.332970754" x2="486.470271" y2="0.332970754" id="Line-2-Copy" stroke-dasharray="1.712420988354921,1.712420988354921"></line>
+                        <line x1="57.4676419" y1="146.174161" x2="486.470271" y2="146.174161" id="Line-2-Copy-2" stroke-dasharray="1.712420988354921,1.712420988354921"></line>
+                        <line x1="57.4676419" y1="97.5604309" x2="486.470271" y2="97.5604309" id="Line-2-Copy-3" stroke-dasharray="1.712420988354921,1.712420988354921"></line>
+                        <line x1="57.4676419" y1="48.9467008" x2="486.470271" y2="48.9467008" id="Line-2-Copy-4" stroke-dasharray="1.712420988354921,1.712420988354921"></line>
+                    </g>
+                    <g id="Ver-line" transform="translate(62.000000, 21.000000)" stroke="url(#linearGradient-1)" stroke-linecap="square" stroke-width="0.570807006">
+                        <line x1="164.987343" y1="222.590824" x2="164.987343" y2="0.0182229576" id="Line-3"></line>
+                        <line x1="329.642051" y1="222.590824" x2="329.642051" y2="0.0182229576" id="Line-3-Copy"></line>
+                        <line x1="0.332635773" y1="222.590824" x2="0.332635773" y2="0.0182229576" id="Line-3-Copy-2"></line>
+                    </g>
+                    <g id="Columns" transform="translate(61.000000, 44.000000)">
+                        <path d="M1.71242102,0 L53.0366195,0 C53.9823635,4.83142479e-17 54.7490405,0.766677005 54.7490405,1.71242102 L54.7490405,199.582579 L54.7490405,199.582579 L0,199.582579 L0,1.71242102 C1.06224367e-16,0.766677005 0.766677005,4.61462246e-15 1.71242102,0 Z" id="Rectangle" fill="#282C47"></path>
+                        <g id="Col-center" transform="translate(160.908765, 47.392519)">
+                            <path d="M1.71242102,0 L61.0486742,0 C61.9944182,-1.73730357e-16 62.7610952,0.766677005 62.7610952,1.71242102 L62.7610952,152.19006 L62.7610952,152.19006 L0,152.19006 L0,1.71242102 C1.06224367e-16,0.766677005 0.766677005,4.61462246e-15 1.71242102,0 Z" id="Rectangle-Copy-3" opacity="0.255766369"></path>
+                            <path d="M5.71844837,4.00500159 L57.0426468,4.00500159 C57.9883909,4.00500159 58.7550679,4.7716786 58.7550679,5.71742261 L58.7550679,152.19006 L58.7550679,152.19006 L4.00602735,152.19006 L4.00602735,5.71742261 C4.00602735,4.7716786 4.77270436,4.00500159 5.71844837,4.00500159 Z" id="Rectangle-Copy" fill="#0564FE"></path>
+                        </g>
+                        <path d="M332.209678,99.4575395 L383.533876,99.4575395 C384.47962,99.4575395 385.246297,100.224217 385.246297,101.169961 L385.246297,199.582579 L385.246297,199.582579 L330.497257,199.582579 L330.497257,101.169961 C330.497257,100.224217 331.263934,99.4575395 332.209678,99.4575395 Z" id="Rectangle-Copy-2" fill="#0564FE"></path>
+                    </g>
+                    <g id="Y-value" transform="translate(28.000000, 48.000000)" fill="#212121" font-family="OpenSans-Semibold, Open Sans" font-size="5.70807006" font-weight="500" letter-spacing="-0.0109770595">
+                        <text id="3">
+                            <tspan x="10.7057402" y="152.146571">3</tspan>
+                        </text>
+                        <text id="5">
+                            <tspan x="10.7057402" y="102.56654">5</tspan>
+                        </text>
+                        <text id="7">
+                            <tspan x="10.7057402" y="52.9865082">7</tspan>
+                        </text>
+                        <text id="10K">
+                            <tspan x="3.7709963" y="6.75647882">10K</tspan>
+                        </text>
+                    </g>
+                    <g id="X-Value" transform="translate(68.000000, 0.000000)" fill="#212121" font-family="OpenSans-Bold, Open Sans" font-size="13.6993682" font-weight="bold" letter-spacing="-0.0263449417">
+                        <text id="7,301">
+                            <tspan x="0.222948848" y="15.5">7,301</tspan>
+                        </text>
+                        <text id="1,703">
+                            <tspan x="161.546557" y="15.5">1,703</tspan>
+                        </text>
+                        <text id="478">
+                            <tspan x="324.215176" y="15.5">478</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
