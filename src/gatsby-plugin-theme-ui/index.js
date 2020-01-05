@@ -94,10 +94,19 @@ export const base = {
       color: "primary",
       bg: "muted",
       transition: "all 0.2s",
+      padding: "13px 48px",
+      borderRadius: "3px",
+      textDecoration: "none",
+      display: "inline-block",
       ":hover": {
         bg: "primary",
-        color: "secondary",
+        color: "white",
       },
+    },
+    primarySmall: {
+      variant: "buttons.primary",
+      px: 2,
+      py: 1,
     },
     secondary: {
       variant: "buttons.primary",
@@ -109,6 +118,7 @@ export const base = {
       },
     },
     outline: {
+      variant: "buttons.primary",
       border: "1px solid white",
       color: "white",
       bg: "none",
@@ -158,6 +168,8 @@ export const base = {
       fontSize: 4,
       color: "black",
       fontStyle: "italic",
+      fontWeight: "300",
+      lineHeight: "50px",
     },
     label: {
       color: "black",

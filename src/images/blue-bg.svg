@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="470px" height="436px" viewBox="0 0 470 436" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 27</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.258218042" width="470" height="435" rx="13"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background-blue-1-copy-2">
+            <g id="Group-27">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#3399EE" xlink:href="#path-1"></use>
+                <g id="Group-59" opacity="0.270531064" mask="url(#mask-2)">
+                    <g transform="translate(110.000000, -382.000000)">
+                        <polygon id="Fill-1" fill="#033991" opacity="0.285691034" points="1 520 130 446.051081 130 445.98517 1 372"></polygon>
+                        <polygon id="Fill-2" fill="#002A38" points="130 445 130 297.062723 130.129521 297 259 370.983494"></polygon>
+                        <polygon id="Fill-4" fill="#4FA8F2" points="130 743 130 595 259 668.981874 259 669.047786"></polygon>
+                        <polygon id="Fill-5" fill="#033991" opacity="0.285691034" points="130 592.985163 130 592.873065 258.837368 519 259 519.092317 259 667"></polygon>
+                        <polygon id="Fill-6" fill="#033991" opacity="0.465866815" points="130 593 130 445 259 519.008256"></polygon>
+                        <polygon id="Fill-6" fill="#033991" opacity="0.285691034" points="0 666 0 518 129 592.008256"></polygon>
+                        <polygon id="Fill-7" fill="#4FA8F2" points="1 519.016506 129.900345 593 130 592.950482 130 445"></polygon>
+                        <polygon id="Fill-14" fill="#4FA8F2" points="130 445 130 297.062723 130.129521 297 259 370.983494"></polygon>
+                        <polygon id="Fill-16" fill="#033991" opacity="0.285691034" points="260 520 260 372 389 445.98517 389 446.051081"></polygon>
+                        <polygon id="Fill-17" fill="#4FA8F2" points="260 370.983515 260 370.871419 388.837368 297 389 297.095611 389 445"></polygon>
+                        <polygon id="Fill-25" fill="#4FA8F2" points="260 519.016506 389 445 389 592.950482 388.903667 593"></polygon>
+                        <polygon id="Fill-26" fill="#033991" opacity="0.465866815" points="260 667 260 519.062723 260.1262 519 389 592.983494"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

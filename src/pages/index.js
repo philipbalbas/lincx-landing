@@ -17,6 +17,14 @@ import {
   Box,
 } from "@theme-ui/components"
 import UserCircle from "../images/user-circle.svg"
+import Funnel from "../images/funnel-1.svg"
+import Column from "../images/column.svg"
+import Table from "../images/table.svg"
+import Image from "../components/image"
+import Person from "../images/person.svg"
+import Fingerprint from "../images/fingerprint.svg"
+import Bot from "../images/bot.svg"
+import Bars from "../images/bars.svg"
 
 const Hero = styled.div`
   padding: 30px;
@@ -45,7 +53,7 @@ const IndexPage = () => (
         margin: "0 auto",
       })}
     >
-      <h1>Meaningful experiences.</h1>
+      <Heading variant="display">Meaningful experiences.</Heading>
       <p>
         We connect consumers who are actively reaching, comparing, and in market
         for products and services with solutions optimized to their needs. We
@@ -72,7 +80,7 @@ const IndexPage = () => (
       >
         <div
           css={css({
-            backgroundColor: "#3399ee",
+            background: "#3399ee",
             borderRadius: "13px",
             color: "white",
             width: "max-content",
@@ -165,19 +173,46 @@ const IndexPage = () => (
         m: "0 auto",
       }}
     >
-      <Box>
+      <Box
+        sx={{
+          textAlign: ["center", "left"],
+        }}
+      >
+        <Person
+          sx={{
+            mb: 2,
+          }}
+        />
         <Heading as="h3" variant="label">
           Understand
         </Heading>
         <Text variant="body">The person behind the purchase.</Text>
       </Box>
-      <Box>
+      <Box
+        sx={{
+          textAlign: ["center", "left"],
+        }}
+      >
+        <Fingerprint
+          sx={{
+            mb: 2,
+          }}
+        />
         <Heading as="h3" variant="label">
           Personalize
         </Heading>
         <Text variant="body">The individual experience.</Text>
       </Box>
-      <Box>
+      <Box
+        sx={{
+          textAlign: ["center", "left"],
+        }}
+      >
+        <Bot
+          sx={{
+            mb: 2,
+          }}
+        />
         <Heading as="h3" variant="label">
           Automate
         </Heading>
@@ -185,7 +220,16 @@ const IndexPage = () => (
           Audience segments that deliver on customer needs.
         </Text>
       </Box>
-      <Box>
+      <Box
+        sx={{
+          textAlign: ["center", "left"],
+        }}
+      >
+        <Bars
+          sx={{
+            mb: 2,
+          }}
+        />
         <Heading as="h3" variant="label">
           Grow
         </Heading>
@@ -201,8 +245,18 @@ const IndexPage = () => (
       <Heading variant="header" as="h1">
         Path for Funnels
       </Heading>
-      <div>
-        <div>
+      <Flex
+        sx={{
+          flexWrap: ["wrap", "nowrap"],
+          mb: [4, 5],
+        }}
+      >
+        <Box
+          sx={{
+            flexBasis: ["100%", "50%"],
+            mr: [0, 3, null, 7],
+          }}
+        >
           <Box mb={4}>
             <Heading variant="label">Funnel Fail Points</Heading>
             <Text variant="body">
@@ -225,80 +279,127 @@ const IndexPage = () => (
               complement the consumer experience across 30+ verticals.
             </Text>
           </Box>
-        </div>
-        <div>
-          <img src="#" alt="" />
-        </div>
-      </div>
-    </Container>
-    <Flex
-      sx={{
-        backgroundColor: "#282c47",
-        color: "white",
-        display: "flex",
-        p: [1, 6],
-      }}
-    >
-      <Box
-        sx={{
-          maxWidth: "1170px",
-          margin: "0 auto",
-        }}
-      >
-        <div>
-          <img src="" alt="" />
-        </div>
-        <div>
-          <Heading as="h1" mb={3}>
-            Arborist API
-          </Heading>
-          <Text mb={4}>
-            Arborist is an API driven matching engine that optimally connects
-            shoppers with products and services tailored to their precise needs,
-            while protecting consumer privacy and limiting who has access to the
-            customer's personal information.
-          </Text>
-          <LinkButton to="/" sx={{ variant: "buttons.primary" }}>
+          <LinkButton
+            sx={{
+              variant: "buttons.primary",
+              mb: [5, 0],
+            }}
+          >
             Learn More
           </LinkButton>
-        </div>
-      </Box>
-    </Flex>
-    <Flex
-      py={5}
+        </Box>
+        <Box
+          sx={{
+            flexBasis: ["100%", "50%"],
+          }}
+        >
+          <Funnel
+            sx={{
+              width: "100%",
+            }}
+          />
+        </Box>
+      </Flex>
+    </Container>
+    <Box
       sx={{
-        maxWidth: "1024px",
-        margin: "0 auto",
+        backgroundColor: "#282C47",
+        color: "white",
+        variant: "layout.fullWidth",
+        py: [5, 6],
+      }}
+    >
+      <Container>
+        <Flex
+          sx={{
+            flexWrap: ["wrap", "nowrap"],
+          }}
+        >
+          <Box
+            sx={{
+              flexShrink: "0",
+              flexGrow: "0",
+              flexBasis: ["100%", "450px"],
+              mr: [0, 3, null, 7],
+              mb: [4, 0],
+            }}
+          >
+            <Image />
+          </Box>
+          <Box
+            sx={{
+              flexBasis: ["100%", "50%"],
+              textAlign: ["center", "left", null, null],
+            }}
+          >
+            <Heading as="h1" mb={3}>
+              Arborist API
+            </Heading>
+            <Text
+              mb={4}
+              variant="body"
+              sx={{
+                color: "white",
+              }}
+            >
+              Arborist is an API driven matching engine that optimally connects
+              shoppers with products and services tailored to their precise
+              needs, while protecting consumer privacy and limiting who has
+              access to the customer's personal information.
+            </Text>
+            <LinkButton to="/" sx={{ variant: "buttons.primary" }}>
+              Learn More
+            </LinkButton>
+          </Box>
+        </Flex>
+      </Container>
+    </Box>
+    <Flex
+      sx={{
+        flexWrap: ["wrap", null, "nowrap"],
+        my: [5, 6],
       }}
     >
       <Heading
+        mr={[0, 6]}
         sx={{
-          flexBasis: "33.3333%",
+          flexBasis: ["100%", null, "33.3333%", null],
+          textAlign: ["center", "left", null, null],
         }}
       >
         Get Started
       </Heading>
       <Box
+        mr={[0, null, null, 6]}
+        mb={[5, 0, null, null]}
         sx={{
-          flexBasis: "33.3333%",
+          flexBasis: ["100%", "50%", null, "33.3333%"],
+          textAlign: ["center", "left", null, null],
         }}
       >
-        <Heading variant="label">Monetize with us</Heading>
-        <Text variant="body">
+        <Heading variant="subheading">Monetize with us</Heading>
+        <Text variant="body" mb={4}>
           Grow your business with us by integrating solutions that increase your
           revenue per customer.
         </Text>
+        <LinkButton sx={{ variant: "buttons.secondary" }}>
+          Get in touch
+        </LinkButton>
       </Box>
       <Box
         sx={{
-          flexBasis: "33.3333%",
+          textAlign: ["center", "left", null, null],
+          flexBasis: ["100%", "50%", null, "33.3333%"],
         }}
       >
-        <Heading variant="label">Advertise with us</Heading>
-        <Text variant="body">
+        <Heading variant="subheading">Advertise with us</Heading>
+        <Text variant="body" mb={4}>
           Get in front of customers when they are ready to engage. Only pay for
           results.
         </Text>
+        <LinkButton sx={{ variant: "buttons.primary" }}>
+          Get in touch
+        </LinkButton>
       </Box>
     </Flex>
   </Layout>

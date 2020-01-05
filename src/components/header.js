@@ -5,6 +5,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import styled from "@emotion/styled"
+import LinkButton from "./link-button"
 
 const HeaderStyles = styled.header`
   margin-bottom: 1.45rem;
@@ -46,8 +47,7 @@ const Header = ({ siteTitle }) => (
     sx={{
       backgound: "white",
       marginBottom: 1,
-      p: 3,
-      maxWidth: "960px",
+      py: 3,
       m: "0 auto",
     }}
   >
@@ -80,15 +80,69 @@ const Header = ({ siteTitle }) => (
             margin: 0,
             display: ["none", "flex"],
             padding: 0,
+            alignItems: "center",
             li: {
               marginLeft: [2, 3, "40px"],
             },
           }}
         >
-          <li>Solutions</li>
-          <li>Advertise</li>
-          <li>Company</li>
-          <li>Contact us</li>
+          <li>
+            <Link
+              sx={{
+                color: "black",
+                textDecoration: "none",
+                transition: "all 0.2s",
+                ":hover": {
+                  color: "primary",
+                  pb: "3px",
+                  borderBottom: "1px solid #0564fe",
+                },
+              }}
+            >
+              Solutions
+            </Link>
+          </li>
+          <li>
+            <Link
+              sx={{
+                color: "black",
+                textDecoration: "none",
+                transition: "all 0.2s",
+                ":hover": {
+                  color: "primary",
+                  pb: "3px",
+                  borderBottom: "1px solid #0564fe",
+                },
+              }}
+            >
+              Advertise
+            </Link>
+          </li>
+          <li>
+            <Link
+              sx={{
+                color: "black",
+                textDecoration: "none",
+                transition: "all 0.2s",
+                ":hover": {
+                  color: "primary",
+                  pb: "3px",
+                  borderBottom: "1px solid #0564fe",
+                },
+              }}
+            >
+              Company
+            </Link>
+          </li>
+          <li>
+            <LinkButton
+              sx={{
+                variant: "buttons.primarySmall",
+              }}
+            >
+              Contact us
+            </LinkButton>
+          </li>
         </ul>
       </nav>
     </div>

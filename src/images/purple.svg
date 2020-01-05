@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="670px" height="435px" viewBox="0 0 670 435" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>background </title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="670" height="435" rx="13"></rect>
+        <rect id="path-3" x="0" y="0" width="670" height="435" rx="13"></rect>
+        <rect id="path-5" x="0" y="0" width="670" height="435" rx="13"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background-black-1-copy-8">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#282C47" xlink:href="#path-1"></use>
+            <g id="BG-1" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="#434D8D" xlink:href="#path-3"></use>
+            </g>
+            <g id="background-black-1-copy" mask="url(#mask-2)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Mask" fill="#282C47" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <g id="Group-59" opacity="0.632231213" stroke-width="1" fill-rule="evenodd" mask="url(#mask-6)">
+                    <g transform="translate(321.000000, -256.000000)">
+                        <polygon id="Fill-1" fill="#363D62" points="1 376 94 322.53693 94 322.489278 1 269"></polygon>
+                        <polygon id="Fill-2" fill="#002A38" points="94 322 94 215.045347 94.0933759 215 187 268.488067"></polygon>
+                        <polygon id="Fill-3" fill="#8D0015" points="94 322.060096 94 321.896635 186.930618 268 187 268.045673 187 376"></polygon>
+                        <polygon id="Fill-4" fill="#3F4671" points="94 537 94 430 187 483.486896 187 483.534548"></polygon>
+                        <polygon id="Fill-5" fill="#252945" points="94 429.489274 94 429.408229 186.882754 376 187 376.066742 187 483"></polygon>
+                        <polygon id="Fill-6" fill="#252945" points="94 429 94 322 187 375.505969"></polygon>
+                        <polygon id="Fill-6" fill="#2C314D" points="0 482 0 375 93 428.505969"></polygon>
+                        <polygon id="Fill-7" fill="#343855" points="1 375.511933 93.9281557 429 94 428.9642 94 322"></polygon>
+                        <polygon id="Fill-8" fill="#1C2037" points="94 215 94 108 187 161.488087 187 161.535738"></polygon>
+                        <polygon id="Fill-9" fill="#1C2037" points="94 107.488082 94 107.407039 186.882754 54 187 54.0691245 187 161"></polygon>
+                        <polygon id="Fill-10" fill="#343855" points="94 0 94 107 187 53.5059687"></polygon>
+                        <polygon id="Fill-11" fill="#3F4671" points="1 160.894235 1 161.05769 94 215 94 107.048075 93.9282278 107"></polygon>
+                        <polygon id="Fill-13" fill="#282C47" points="94 214.511933 187 161 187 267.9642 186.930549 268"></polygon>
+                        <polygon id="Fill-14" fill="#323757" points="94 322 94 215.045347 94.0933759 215 187 268.488067"></polygon>
+                        <polygon id="Fill-15" fill="#393E62" points="95 322.060096 95 321.896635 187.930618 268 188 268.045673 188 376"></polygon>
+                        <polygon id="Fill-16" fill="#3C426B" points="188 376 188 269 281 322.489278 281 322.53693"></polygon>
+                        <polygon id="Fill-17" fill="#333960" points="188 268.488082 188 268.407039 280.882754 215 281 215.069125 281 322"></polygon>
+                        <polygon id="Fill-19" fill="#8D0015" points="281 322 281 215.045347 281.093376 215 374 268.488067"></polygon>
+                        <polygon id="Fill-20" fill="#FF3105" points="281 322.060096 281 321.896635 373.930618 268 374 268.045673 374 376"></polygon>
+                        <polygon id="Fill-21" fill="#1C2037" points="281 537 281 430 374 483.486896 374 483.534548"></polygon>
+                        <polygon id="Fill-22" fill="#363D62" points="281 429.489274 281 429.408229 373.882754 376 374 376.066742 374 483"></polygon>
+                        <polygon id="Fill-24" fill="#282D49" points="281 429 281 322 374 375.505969"></polygon>
+                        <polygon id="Fill-25" fill="#31365C" points="188 375.511933 281 322 281 428.9642 280.930551 429"></polygon>
+                        <polygon id="Fill-26" fill="#1C2037" points="188 483 188 376.045347 188.090982 376 281 429.488067"></polygon>
+                        <polygon id="Fill-27" fill="#2F3450" points="282 536.896635 282 537.060096 375 591 375 483.045673 374.928228 483"></polygon>
+                        <polygon id="Fill-28" fill="#31375D" points="281 215 281 108 374 161.488087 374 161.535738"></polygon>
+                        <polygon id="Fill-29" fill="#31375D" points="281 107.488082 281 107.407039 373.882754 54 374 54.0691245 374 161"></polygon>
+                        <polygon id="Fill-30" fill="#3F4671" points="281 0 281 107 374 53.5059687"></polygon>
+                        <polygon id="Fill-31" fill="#1C2037" points="281 0 188 53.5119334 280.928156 107 281 106.9642"></polygon>
+                        <polygon id="Fill-32" fill="#292D49" points="188 161 188 54.0453471 188.090982 54 281 107.488067"></polygon>
+                        <polygon id="Fill-33" fill="#292D49" points="188 161.058893 188 160.895435 280.930618 107 281 107.045672 281 215"></polygon>
+                        <polygon id="Fill-36" fill="#1C2037" points="188 268 188 161 281 214.505969"></polygon>
+                        <polygon id="Fill-39" fill="#FF3105" points="281 214.511933 374 161 374 267.9642 373.930549 268"></polygon>
+                        <polygon id="Fill-40" fill="#252945" points="281 322 281 215.045347 281.093376 215 374 268.488067"></polygon>
+                        <polygon id="Fill-41" fill="#FF3105" points="373 376 373 269 466 322.489278 466 322.53693"></polygon>
+                        <polygon id="Fill-42" fill="#FF650B" points="373 268.488082 373 268.407039 465.882754 215 466 215.069125 466 322"></polygon>
+                        <polygon id="Fill-43" fill="#323858" points="281 322.060096 281 321.896635 373.930618 268 374 268.045673 374 376"></polygon>
+                        <polygon id="Fill-44" fill="#FFA92B" points="466 322 466 215.045347 466.093376 215 559 268.488067"></polygon>
+                        <polygon id="Fill-45" fill="#FFD595" points="587 247.018898 587 290 625 268.496457 587.036142 247"></polygon>
+                        <polygon id="Fill-46" fill="#FFD595" points="466 537 466 430 559 483.486896 559 483.534548"></polygon>
+                        <polygon id="Fill-47" fill="#363D62" points="373 375.511933 466 322 466 428.9642 465.932944 429"></polygon>
+                        <polygon id="Fill-48" fill="#2F3450" points="373 483 373 376.045347 373.090982 376 466 429.488067"></polygon>
+                        <polygon id="Fill-49" fill="#20253D" points="373 483.057692 373 482.896635 465.933009 429 466 429.045673 466 537"></polygon>
+                        <polygon id="Fill-50" fill="#FF7D4A" points="466 215 466 108 559 161.488087 559 161.535738"></polygon>
+                        <polygon id="Fill-51" fill="#FF3F2E" points="466 0 373 53.5119334 465.932942 107 466 106.9642"></polygon>
+                        <polygon id="Fill-52" fill="#FF3F2E" points="373 161 373 54.0453471 373.090982 54 466 107.488067"></polygon>
+                        <polygon id="Fill-53" fill="#FF3F2E" points="373 161.058893 373 160.895435 465.933009 107 466 107.045672 466 215"></polygon>
+                        <polygon id="Fill-54" fill="#20253D" points="373 376 373 269 466 322.489278 466 322.53693"></polygon>
+                        <polygon id="Fill-55" fill="#FFA92B" points="373 268.488082 373 268.407039 465.882754 215 466 215.069125 466 322"></polygon>
+                        <polygon id="Fill-56" fill="#FF650B" points="373 268 373 161 466 214.505969"></polygon>
+                        <polygon id="Fill-57" fill="#31375D" points="281 214.511933 374 161 374 267.9642 373.930549 268"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

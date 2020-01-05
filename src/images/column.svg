@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="405px" height="40px" viewBox="0 0 405 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.7%" y="-1.7%" width="101.3%" height="103.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Copy-7" transform="translate(-162.000000, -2394.000000)">
+            <g id="Group-9-Copy" transform="translate(-91.000000, 2268.000000)">
+                <g id="First-section" filter="url(#filter-1)">
+                    <g id="Group-Copy" transform="translate(0.000000, 0.888001)">
+                        <rect id="Rectangle" fill="#282C47" x="0" y="0.111999059" width="1586" height="601"></rect>
+                        <g id="Group-8" transform="translate(256.000000, 124.111999)">
+                            <g id="Group-3">
+                                <text id="Made-request" font-family="OpenSans-Semibold, Open Sans" font-size="11.0400002" font-weight="500" fill="#0564FE">
+                                    <tspan x="0" y="33">Made request</tspan>
+                                </text>
+                                <text id="1-time," font-family="OpenSans-Semibold, Open Sans" font-size="11.0400002" font-weight="500" fill="#0564FE">
+                                    <tspan x="119" y="32.9760004">1 time,</tspan>
+                                </text>
+                                <text id="in-the" font-family="OpenSans-Semibold, Open Sans" font-size="11.0400002" font-weight="500" fill="#FFFFFF">
+                                    <tspan x="164.264001" y="32.9760004">in the</tspan>
+                                </text>
+                                <text id="and-Mobile" font-family="OpenSans-Semibold, Open Sans" font-size="11.0400002" font-weight="500">
+                                    <tspan x="338.439995" y="32.9760004" fill="#FFFFFF">and </tspan>
+                                    <tspan x="361.59812" y="32.9760004" fill="#0564FE">Mobile</tspan>
+                                </text>
+                                <text id="Last-month" font-family="OpenSans-Semibold, Open Sans" font-size="11.0400002" font-weight="500" fill="#0564FE">
+                                    <tspan x="236" y="32.9760004">Last month</tspan>
+                                </text>
+                                <text id="USERS-THAT" font-family="OpenSans, Open Sans" font-size="11.0400002" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="0" y="12.0239996">USERS THAT</tspan>
+                                </text>
+                                <text id="AT-LEAST" font-family="OpenSans, Open Sans" font-size="11.0400002" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="119" y="12">AT LEAST</tspan>
+                                </text>
+                                <path d="M177.007784,5.52016333 C176.874099,5.52010209 176.745867,5.57374051 176.651307,5.66927494 L173.64796,8.7058532 L170.644613,5.66927494 C170.447736,5.47024181 170.128536,5.47024182 169.931659,5.66927495 C169.734782,5.86830809 169.734782,6.19100456 169.931659,6.3900377 L173.291483,9.78665767 C173.386005,9.88227678 173.514242,9.93600018 173.64796,9.93600018 C173.781678,9.93600018 173.909915,9.88227678 174.004437,9.78665767 L177.364262,6.3900377 C177.508493,6.24431972 177.551656,6.02509606 177.473611,5.83465051 C177.395566,5.64420496 177.211694,5.52006989 177.007784,5.52016333 Z" id="Path" fill="#3399EE" fill-rule="nonzero"></path>
+                                <path d="M271.927784,5.52016333 C271.794099,5.52010209 271.665867,5.57374051 271.571306,5.66927494 L268.56796,8.7058532 L265.564613,5.66927494 C265.367736,5.47024181 265.048535,5.47024182 264.851658,5.66927495 C264.654781,5.86830809 264.654781,6.19100456 264.851658,6.3900377 L268.211482,9.78665767 C268.306005,9.88227678 268.434242,9.93600018 268.56796,9.93600018 C268.701678,9.93600018 268.829914,9.88227678 268.924437,9.78665767 L272.284261,6.3900377 C272.428493,6.24431972 272.471656,6.02509606 272.39361,5.83465051 C272.315565,5.64420496 272.131693,5.52006989 271.927784,5.52016333 Z" id="Path" fill="#3399EE" fill-rule="nonzero"></path>
+                                <text id="TIME" font-family="OpenSans, Open Sans" font-size="11.0400002" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="236" y="12">TIME</tspan>
+                                </text>
+                                <path d="M386.071784,5.52016333 C385.938099,5.52010209 385.809867,5.57374051 385.715307,5.66927494 L382.71196,8.7058532 L379.708613,5.66927494 C379.511736,5.47024181 379.192535,5.47024182 378.995658,5.66927495 C378.798781,5.86830809 378.798781,6.19100456 378.995658,6.3900377 L382.355483,9.78665767 C382.450005,9.88227678 382.578242,9.93600018 382.71196,9.93600018 C382.845678,9.93600018 382.973915,9.88227678 383.068437,9.78665767 L386.428261,6.3900377 C386.572493,6.24431972 386.615656,6.02509606 386.537611,5.83465051 C386.459565,5.64420496 386.275693,5.52006989 386.071784,5.52016333 Z" id="Path" fill="#3399EE" fill-rule="nonzero"></path>
+                                <text id="DEVICE" font-family="OpenSans, Open Sans" font-size="11.0400002" font-weight="normal" fill="#FFFFFF">
+                                    <tspan x="338" y="12">DEVICE</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

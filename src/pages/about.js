@@ -4,11 +4,12 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import LinkButton from "../components/link-button"
 import { Container, Box, Heading, Flex, Text } from "@theme-ui/components"
+import Quote from "../images/quote.svg"
 
 const AboutPage = () => (
   <Layout>
     <SEO title="About Us" />
-    <Container px={2} pt={[3, 4, 5, 6]} pb={[5, 6]}>
+    <Box pt={[3, 4, 5, 6]} pb={[5, 6]}>
       <Flex
         mb={6}
         sx={{
@@ -27,7 +28,7 @@ const AboutPage = () => (
             variant="body"
             sx={{
               color: "lightBlue",
-              fontWeight: "bold",
+              fontWeight: "600",
               mb: 3,
             }}
           >
@@ -74,6 +75,11 @@ const AboutPage = () => (
             margin: "0 auto",
           }}
         >
+          <Quote
+            sx={{
+              mb: 3,
+            }}
+          />
           <Text variant="quote">
             We see about 1 million people a week shopping consumer loans.
             There's an incredible opportunity to engage this highly focused
@@ -90,6 +96,7 @@ const AboutPage = () => (
           mr={[0, 6]}
           sx={{
             flexBasis: ["100%", null, "33.3333%", null],
+            textAlign: ["center", "left", null, null],
           }}
         >
           Get Started
@@ -99,10 +106,11 @@ const AboutPage = () => (
           mb={[5, 0, null, null]}
           sx={{
             flexBasis: ["100%", "50%", null, "33.3333%"],
+            textAlign: ["center", "left", null, null],
           }}
         >
           <Heading variant="subheading">Monetize with us</Heading>
-          <Text mb={4}>
+          <Text variant="body" mb={4}>
             Grow your business with us by integrating solutions that increase
             your revenue per customer.
           </Text>
@@ -113,10 +121,11 @@ const AboutPage = () => (
         <Box
           sx={{
             flexBasis: ["100%", "50%", null, "33.3333%"],
+            textAlign: ["center", "left", null, null],
           }}
         >
           <Heading variant="subheading">Advertise with us</Heading>
-          <Text mb={4}>
+          <Text variant="body" mb={4}>
             Get in front of customers when they are ready to engage. Only pay
             for results.
           </Text>
@@ -125,7 +134,7 @@ const AboutPage = () => (
           </LinkButton>
         </Box>
       </Flex>
-    </Container>
+    </Box>
   </Layout>
 )
 

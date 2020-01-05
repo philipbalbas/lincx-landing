@@ -9,7 +9,7 @@ import UserCircle from "../images/user-circle.svg"
 const CareersPage = () => (
   <Layout>
     <SEO title="Join Us" />
-    <Container px={2} pt={[3, 4, 5, 6]} pb={[5, 6]}>
+    <Box px={2} pt={[3, 4, 5, 6]} pb={[5, 6]}>
       <Box mb={5}>
         <Heading as="h1">Join our team</Heading>
         <Text variant="body" mb={3}>
@@ -154,7 +154,7 @@ const CareersPage = () => (
       <Box bg="muted" p={4}>
         <Container
           sx={{
-            maxWidth: "333px",
+            maxWidth: "350px",
             textAlign: "center",
           }}
         >
@@ -168,7 +168,7 @@ const CareersPage = () => (
           </LinkButton>
         </Container>
       </Box>
-    </Container>
+    </Box>
   </Layout>
 )
 
