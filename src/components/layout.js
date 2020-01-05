@@ -8,6 +8,7 @@ import { jsx } from "theme-ui"
 import { Heading, Container } from "@theme-ui/components"
 
 import Header from "./header"
+import Footer from "./footer"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -40,37 +41,8 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer
-          sx={{
-            display: "flex",
-            justifyContent: "flex-end",
-          }}
-        >
-          <div>
-            <Heading variant="label">Solutions</Heading>
-            <div>
-              <ul>
-                <li>Arborist</li>
-                <li>Funnels</li>
-              </ul>
-            </div>
-          </div>
-          <div>
-            <Heading variant="label">Company</Heading>
-            <div>
-              <ul>
-                <li>
-                  <Link to="/about">About Us</Link>
-                </li>
-                <li>
-                  <Link to="/careers">Careers</Link>
-                </li>
-                <li>Legal</li>
-              </ul>
-            </div>
-          </div>
-        </footer>
       </div>
+      <Footer />
     </Container>
   )
 }
