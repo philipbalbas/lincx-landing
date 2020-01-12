@@ -177,6 +177,11 @@ export const base = {
       marginBottom: 2,
       fontSize: 2,
     },
+    blueLabel: {
+      variant: "text.label",
+      color: "primary",
+      textTransform: "uppercase",
+    },
     caps: {
       textTransform: "uppercase",
     },
@@ -198,6 +203,26 @@ export const base = {
       variant: "text.body",
       color: "black",
       fontWeight: "600",
+    },
+    boldWhite: {
+      variant: "text.bold",
+      color: "white",
+    },
+    listItem: {
+      variant: "text.bold",
+      mb: 4,
+      "&:last-of-type": {
+        mb: "none",
+      },
+    },
+    blueText: {
+      variant: "text.body",
+      color: "lightBlue",
+      fontWeight: "600",
+    },
+    highlight: {
+      variant: "text.body",
+      color: "primary",
     },
   },
   container: {
@@ -233,6 +258,5 @@ export default {
       mb: 4,
       textAlign: ["center", "left"],
     },
-    listItem: {},
   },
 }

@@ -104,6 +104,7 @@ const Header = ({ siteTitle }) => (
           </li>
           <li>
             <Link
+              to="/advertise"
               sx={{
                 color: "black",
                 textDecoration: "none",

@@ -251,11 +251,7 @@ export default () => (
                 variant: "layout.feature",
               }}
             >
-              <Expand
-                sx={{
-                  variant: "image.icon",
-                }}
-              />
+              <Expand sx={{ variant: "image.icon" }} />
               <Heading variant="subheadingCaps">Expand</Heading>
               <Text variant="body">
                 Expand revenue opportunities within your consumer funnel through
@@ -268,11 +264,7 @@ export default () => (
                 variant: "layout.feature",
               }}
             >
-              <Match
-                sx={{
-                  variant: "image.icon",
-                }}
-              />
+              <Match sx={{ variant: "image.icon" }} />
               <Heading variant="subheadingCaps">Match</Heading>
               <Text variant="body">
                 Our proprietary matching technology presents only those

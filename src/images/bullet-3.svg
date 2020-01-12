@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Icon / icon-account Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.75,0 C6.16,0 0,6.16 0,13.75 C0,21.34 6.16,27.5 13.75,27.5 C21.34,27.5 27.5,21.34 27.5,13.75 C27.5,6.16 21.34,0 13.75,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Advertisers-Copy" transform="translate(-236.000000, -3111.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="5012"></rect>
+            <g id="Group-41" transform="translate(135.000000, 2838.000000)">
+                <rect id="Rectangle" fill="#282C47" x="0" y="0" width="1170" height="671" rx="10"></rect>
+                <g id="Group-35" transform="translate(100.000000, 266.000000)">
+                    <g id="Group-7-Copy">
+                        <g id="Icon-/-bulleted-Copy-2" transform="translate(0.000000, 6.000000)">
+                            <polygon id="Shape" points="0 0 30 0 30 30 0 30"></polygon>
+                            <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(1.250000, 1.250000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#F2BB42" xlink:href="#path-1"></use>
+                                <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.656389509" mask="url(#mask-2)" transform="translate(13.750000, 11.666667) rotate(45.000000) translate(-13.750000, -11.666667) " points="9.58333333 7.5 19.21875 6.19791667 17.9166667 15.8333333 8.28125 17.1354167"></polygon>
+                                <polygon id="Rectangle-Copy" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(13.750000, 15.833333) rotate(45.000000) translate(-13.750000, -15.833333) " points="9.58333333 11.6666667 19.21875 10.3645833 17.9166667 20 8.28125 21.3020833"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
