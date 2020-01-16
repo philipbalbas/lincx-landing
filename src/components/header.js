@@ -1,15 +1,13 @@
 /** @jsx jsx */
-import { jsx } from "theme-ui"
-import { Link } from "gatsby"
+import { jsx } from 'theme-ui';
+import { Link } from 'gatsby';
 
-import PropTypes from "prop-types"
-import React from "react"
-import styled from "@emotion/styled"
-import LinkButton from "./link-button"
+import PropTypes from 'prop-types';
+import React from 'react';
+import styled from '@emotion/styled';
+import LinkButton from './link-button';
 
-const HeaderStyles = styled.header`
-  margin-bottom: 1.45rem;
-`
+const HeaderStyles = styled.header`margin-bottom: 1.45rem;`;
 
 const InnerHeader = styled.div`
   margin: 0 auto;
@@ -18,7 +16,7 @@ const InnerHeader = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-`
+`;
 
 const Nav = styled.div`
   ul {
@@ -31,7 +29,7 @@ const Nav = styled.div`
   li {
     padding-left: 40px;
   }
-`
+`;
 
 const Title = styled.h1`
   margin: 0;
@@ -40,35 +38,35 @@ const Title = styled.h1`
   font-size: 18px;
   letter-spacing: 3.55px;
   color: black;
-`
+`;
 
 const Header = ({ siteTitle }) => (
   <header
     sx={{
-      backgound: "white",
+      backgound: 'white',
       marginBottom: 1,
       py: 3,
-      m: "0 auto",
+      m: '0 auto'
     }}
   >
     <div
       sx={{
-        display: "flex",
-        justifyContent: "space-between",
-        alignItems: "center",
+        display: 'flex',
+        justifyContent: 'space-between',
+        alignItems: 'center'
       }}
     >
       <Link
         to="/"
         sx={{
-          color: "inherit",
-          textDecoration: "none",
-          textTransform: "uppercase",
-          fontSize: "18px",
-          letterSpacing: "3.75px",
-          "&.active": {
-            color: "primary",
-          },
+          color: 'inherit',
+          textDecoration: 'none',
+          textTransform: 'uppercase',
+          fontSize: '18px',
+          letterSpacing: '3.75px',
+          '&.active': {
+            color: 'primary'
+          }
         }}
       >
         {siteTitle}
@@ -76,27 +74,27 @@ const Header = ({ siteTitle }) => (
       <nav>
         <ul
           sx={{
-            listStyle: "none",
+            listStyle: 'none',
             margin: 0,
-            display: ["none", "flex"],
+            display: [ 'none', 'flex' ],
             padding: 0,
-            alignItems: "center",
+            alignItems: 'center',
             li: {
-              marginLeft: [2, 3, "40px"],
-            },
+              marginLeft: [ 2, 3, '40px' ]
+            }
           }}
         >
           <li>
             <Link
               sx={{
-                color: "black",
-                textDecoration: "none",
-                transition: "all 0.2s",
-                ":hover": {
-                  color: "primary",
-                  pb: "3px",
-                  borderBottom: "1px solid #0564fe",
-                },
+                color: 'black',
+                textDecoration: 'none',
+                transition: 'all 0.2s',
+                ':hover': {
+                  color: 'primary',
+                  pb: '3px',
+                  borderBottom: '1px solid #0564fe'
+                }
               }}
             >
               Solutions
@@ -106,14 +104,14 @@ const Header = ({ siteTitle }) => (
             <Link
               to="/advertise"
               sx={{
-                color: "black",
-                textDecoration: "none",
-                transition: "all 0.2s",
-                ":hover": {
-                  color: "primary",
-                  pb: "3px",
-                  borderBottom: "1px solid #0564fe",
-                },
+                color: 'black',
+                textDecoration: 'none',
+                transition: 'all 0.2s',
+                ':hover': {
+                  color: 'primary',
+                  pb: '3px',
+                  borderBottom: '1px solid #0564fe'
+                }
               }}
             >
               Advertise
@@ -121,15 +119,16 @@ const Header = ({ siteTitle }) => (
           </li>
           <li>
             <Link
+              to="/about"
               sx={{
-                color: "black",
-                textDecoration: "none",
-                transition: "all 0.2s",
-                ":hover": {
-                  color: "primary",
-                  pb: "3px",
-                  borderBottom: "1px solid #0564fe",
-                },
+                color: 'black',
+                textDecoration: 'none',
+                transition: 'all 0.2s',
+                ':hover': {
+                  color: 'primary',
+                  pb: '3px',
+                  borderBottom: '1px solid #0564fe'
+                }
               }}
             >
               Company
@@ -138,7 +137,7 @@ const Header = ({ siteTitle }) => (
           <li>
             <LinkButton
               sx={{
-                variant: "buttons.primarySmall",
+                variant: 'buttons.primarySmall'
               }}
             >
               Contact us
@@ -148,14 +147,14 @@ const Header = ({ siteTitle }) => (
       </nav>
     </div>
   </header>
-)
+);
 
 Header.propTypes = {
-  siteTitle: PropTypes.string,
-}
+  siteTitle: PropTypes.string
+};
 
 Header.defaultProps = {
-  siteTitle: ``,
-}
+  siteTitle: ``
+};
 
-export default Header
+export default Header;

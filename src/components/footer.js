@@ -1,48 +1,49 @@
 /** @jsx jsx */
-import { jsx } from "theme-ui"
-import { Link } from "gatsby"
+import { jsx } from 'theme-ui';
+import { Link } from 'gatsby';
 
-import { Heading } from "@theme-ui/components"
+import { Heading } from '@theme-ui/components';
 
 const Footer = () => (
   <footer
     sx={{
-      display: "flex",
-      justifyContent: "flex-end",
-      py: [4, 5],
-      flexWrap: ["wrap", "nowrap"],
+      display: 'flex',
+      justifyContent: 'flex-end',
+      py: [ 4, 5 ],
+      flexWrap: [ 'wrap', 'nowrap' ]
     }}
   >
     <div
       sx={{
-        mr: [5, 6],
+        mr: [ 5, 6 ]
       }}
     >
       <Heading variant="label">Solutions</Heading>
       <div>
         <ul
           sx={{
-            padding: "0",
-            margin: "0",
-            listStyle: "none",
+            padding: '0',
+            margin: '0',
+            listStyle: 'none'
           }}
         >
           <li
             sx={{
-              mb: 2,
+              mb: 2
             }}
           >
             <Link
+              to="/arborist"
               sx={{
                 fontSize: 0,
-                color: "black",
-                textDecoration: "none",
-                transition: "all 0.2s",
-                ":hover": {
-                  color: "primary",
-                  pb: "2px",
-                  borderBottom: "1px solid #0564fe",
-                },
+                color: 'black',
+                textDecoration: 'none',
+                transition: 'all 0.2s',
+                ':hover': {
+                  color: 'primary',
+                  pb: '2px',
+                  borderBottom: '1px solid #0564fe'
+                }
               }}
             >
               Arborist
@@ -50,20 +51,20 @@ const Footer = () => (
           </li>
           <li
             sx={{
-              mb: 2,
+              mb: 2
             }}
           >
             <Link
               sx={{
                 fontSize: 0,
-                color: "black",
-                textDecoration: "none",
-                transition: "all 0.2s",
-                ":hover": {
-                  color: "primary",
-                  pb: "2px",
-                  borderBottom: "1px solid #0564fe",
-                },
+                color: 'black',
+                textDecoration: 'none',
+                transition: 'all 0.2s',
+                ':hover': {
+                  color: 'primary',
+                  pb: '2px',
+                  borderBottom: '1px solid #0564fe'
+                }
               }}
               to="/funnels"
             >
@@ -78,27 +79,27 @@ const Footer = () => (
       <div>
         <ul
           sx={{
-            padding: "0",
-            margin: "0",
-            listStyle: "none",
+            padding: '0',
+            margin: '0',
+            listStyle: 'none'
           }}
         >
           <li
             sx={{
-              mb: 2,
+              mb: 2
             }}
           >
             <Link
               sx={{
                 fontSize: 0,
-                color: "black",
-                textDecoration: "none",
-                transition: "all 0.2s",
-                ":hover": {
-                  color: "primary",
-                  pb: "2px",
-                  borderBottom: "1px solid #0564fe",
-                },
+                color: 'black',
+                textDecoration: 'none',
+                transition: 'all 0.2s',
+                ':hover': {
+                  color: 'primary',
+                  pb: '2px',
+                  borderBottom: '1px solid #0564fe'
+                }
               }}
               to="/about"
             >
@@ -107,20 +108,20 @@ const Footer = () => (
           </li>
           <li
             sx={{
-              mb: 2,
+              mb: 2
             }}
           >
             <Link
               sx={{
                 fontSize: 0,
-                color: "black",
-                textDecoration: "none",
-                transition: "all 0.2s",
-                ":hover": {
-                  color: "primary",
-                  pb: "2px",
-                  borderBottom: "1px solid #0564fe",
-                },
+                color: 'black',
+                textDecoration: 'none',
+                transition: 'all 0.2s',
+                ':hover': {
+                  color: 'primary',
+                  pb: '2px',
+                  borderBottom: '1px solid #0564fe'
+                }
               }}
               to="/careers"
             >
@@ -129,21 +130,21 @@ const Footer = () => (
           </li>
           <li
             sx={{
-              mb: 2,
+              mb: 2
             }}
           >
-            {" "}
+            {' '}
             <Link
               sx={{
                 fontSize: 0,
-                color: "black",
-                textDecoration: "none",
-                transition: "all 0.2s",
-                ":hover": {
-                  color: "primary",
-                  pb: "2px",
-                  borderBottom: "1px solid #0564fe",
-                },
+                color: 'black',
+                textDecoration: 'none',
+                transition: 'all 0.2s',
+                ':hover': {
+                  color: 'primary',
+                  pb: '2px',
+                  borderBottom: '1px solid #0564fe'
+                }
               }}
               to="/"
             >
@@ -154,6 +155,6 @@ const Footer = () => (
       </div>
     </div>
   </footer>
-)
+);
 
-export default Footer
+export default Footer;
