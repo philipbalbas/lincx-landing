@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="546px" viewBox="0 0 580 546" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="6" y="0" width="141" height="26" rx="6.84968408"></rect>
+        <filter x="-10.6%" y="-46.2%" width="121.3%" height="215.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Arborist-API-" transform="translate(-634.000000, -210.000000)">
+            <g id="Group-3" transform="translate(635.000000, 211.000000)">
+                <g id="BG-chart">
+                    <path d="M272.999996,0 L272.999996,543.790334 M0,261.899021 L546,261.899021" id="Combined-Shape" stroke="#E3E7E9" stroke-width="1.08536584" stroke-linecap="square"></path>
+                    <g id="Group" transform="translate(239.707313, 498.474473)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="66.5853648" height="29.3220278"></rect>
+                        <text id="Loss" font-family="OpenSans-Bold, Open Sans" font-size="13.02439" font-weight="bold" fill="#212121">
+                            <tspan x="19.7735253" y="20.0503771">Loss</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy" transform="translate(239.707313, 15.993833)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="66.5853648" height="29.3220278"></rect>
+                        <text id="Profit" font-family="OpenSans-Bold, Open Sans" font-size="13.02439" font-weight="bold" fill="#212121">
+                            <tspan x="15.5475941" y="20.0503771">Profit</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-Copy-2" transform="translate(13.299589, 249.694760)" fill="#212121" font-family="OpenSans-Bold, Open Sans" font-size="13.02439" font-weight="bold">
+                        <text id="Target">
+                            <tspan x="5.5616318" y="14.4113347">Target</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Circle-content" transform="translate(67.000000, 25.000000)" fill="#0564FE">
+                    <g id="Group-2" transform="translate(0.000000, 356.952169)">
+                        <ellipse id="Oval" fill-opacity="0.223748907" cx="38.6330766" cy="51.9445321" rx="33.3043763" ry="33.297777"></ellipse>
+                        <ellipse id="Oval-Copy" fill-opacity="0.105195586" cx="19.3165383" cy="19.3127106" rx="19.3165383" ry="19.3127106"></ellipse>
+                        <ellipse id="Oval-Copy-2" fill-opacity="0.1035566" cx="39.2991641" cy="80.5806202" rx="19.3165383" ry="19.3127106"></ellipse>
+                    </g>
+                    <ellipse id="Oval-Copy-3" fill-opacity="0.16" cx="176.513195" cy="321.656525" rx="43.2956892" ry="43.28711"></ellipse>
+                    <ellipse id="Oval-Copy-4" fill-opacity="0.16" cx="171.184494" cy="332.311814" rx="24.6452385" ry="24.640355"></ellipse>
+                    <ellipse id="Oval-Copy-5" fill-opacity="0.16" cx="213.148009" cy="351.624525" rx="29.3078512" ry="29.3020437"></ellipse>
+                    <ellipse id="Oval-Copy-6" fill-opacity="0.16" cx="139.878381" cy="339.637325" rx="17.3182757" ry="17.314844"></ellipse>
+                    <ellipse id="Oval-Copy-7" fill-opacity="0.16" cx="245.786297" cy="412.226479" rx="20.6487133" ry="20.6446217"></ellipse>
+                    <ellipse id="Oval-Copy-10" fill-opacity="0.16" cx="313.727225" cy="370.937235" rx="20.6487133" ry="20.6446217"></ellipse>
+                    <ellipse id="Oval-Copy-11" fill-opacity="0.16" cx="321.054188" cy="350.292614" rx="17.3182757" ry="17.314844"></ellipse>
+                    <ellipse id="Oval-Copy-12" fill-opacity="0.16" cx="115.233142" cy="237.746127" rx="24.6452385" ry="24.640355"></ellipse>
+                    <ellipse id="Oval-Copy-15" fill-opacity="0.16" cx="235.128897" cy="233.750394" rx="28.6417637" ry="28.6360882"></ellipse>
+                    <ellipse id="Oval-Copy-17" fill-opacity="0.16" cx="54.6191772" cy="102.557153" rx="41.2974267" ry="41.2892434"></ellipse>
+                    <ellipse id="Oval-Copy-18" fill-opacity="0.16" cx="34.6365514" cy="146.510219" rx="21.3148009" ry="21.3105773"></ellipse>
+                    <ellipse id="Oval-Copy-20" fill-opacity="0.16" cx="49.9565645" cy="20.6446217" rx="16.6521882" ry="16.6488885"></ellipse>
+                    <ellipse id="Oval-Copy-22" fill-opacity="0.16" cx="147.205343" cy="53.9423987" rx="16.6521882" ry="16.6488885"></ellipse>
+                    <ellipse id="Oval-Copy-23" fill-opacity="0.16" cx="133.883593" cy="81.9125313" rx="16.6521882" ry="16.6488885"></ellipse>
+                    <ellipse id="Oval-Copy-24" fill-opacity="0.16" cx="147.205343" cy="83.2444424" rx="15.3200131" ry="15.3169774"></ellipse>
+                    <ellipse id="Oval-Copy-25" fill-opacity="0.16" cx="199.160171" cy="147.176174" rx="20.6487133" ry="20.6446217"></ellipse>
+                    <ellipse id="Oval-Copy-26" fill-opacity="0.16" cx="235.794985" cy="143.846396" rx="27.9756761" ry="27.9701326"></ellipse>
+                    <ellipse id="Oval-Copy-27" fill-opacity="0.16" cx="194.497558" cy="130.527286" rx="17.3182757" ry="17.314844"></ellipse>
+                    <ellipse id="Oval-Copy-28" fill-opacity="0.16" cx="215.812359" cy="119.871997" rx="17.3182757" ry="17.314844"></ellipse>
+                    <ellipse id="Oval-Copy-29" fill-opacity="0.16" cx="265.102836" cy="107.884797" rx="29.3078512" ry="29.3020437"></ellipse>
+                    <ellipse id="Oval-Copy-31" fill-opacity="0.16" cx="259.108048" cy="71.2572427" rx="23.3130634" ry="23.3084439"></ellipse>
+                    <ellipse id="Oval-Copy-32" fill-opacity="0.16" cx="223.139322" cy="47.2828433" rx="23.3130634" ry="23.3084439"></ellipse>
+                    <ellipse id="Oval-Copy-33" fill-opacity="0.16" cx="284.419374" cy="16.6488885" rx="16.6521882" ry="16.6488885"></ellipse>
+                    <ellipse id="Oval-Copy-35" fill-opacity="0.16" cx="341.036814" cy="26.6382216" rx="13.3217505" ry="13.3191108"></ellipse>
+                    <ellipse id="Oval-Copy-36" fill-opacity="0.16" cx="353.026389" cy="107.884797" rx="13.3217505" ry="13.3191108"></ellipse>
+                    <ellipse id="Oval-Copy-37" fill-opacity="0.16" cx="363.68379" cy="143.846396" rx="13.3217505" ry="13.3191108"></ellipse>
+                    <ellipse id="Oval-Copy-38" fill-opacity="0.16" cx="354.358564" cy="165.156974" rx="13.3217505" ry="13.3191108"></ellipse>
+                    <ellipse id="Oval-Copy-39" fill-opacity="0.16" cx="270.431536" cy="154.501685" rx="10.6574004" ry="10.6552886"></ellipse>
+                    <ellipse id="Oval-Copy-40" fill-opacity="0.16" cx="287.083724" cy="175.146307" rx="13.9878381" ry="13.9850663"></ellipse>
+                    <ellipse id="Oval-Copy-41" fill-opacity="0.16" cx="305.734175" cy="161.827196" rx="13.9878381" ry="13.9850663"></ellipse>
+                    <ellipse id="Oval-Copy-42" fill-opacity="0.16" cx="273.761974" cy="227.090839" rx="13.9878381" ry="13.9850663"></ellipse>
+                    <ellipse id="Oval-Copy-34" fill-opacity="0.16" cx="323.718538" cy="109.216708" rx="26.6435011" ry="26.6382216"></ellipse>
+                    <ellipse id="Oval-Copy-43" fill-opacity="0.16" cx="129.22098" cy="154.501685" rx="22.6469759" ry="22.6424883"></ellipse>
+                    <ellipse id="Oval-Copy-44" fill-opacity="0.16" cx="367.680315" cy="242.407816" rx="22.6469759" ry="22.6424883"></ellipse>
+                    <ellipse id="Oval-Copy-45" fill-opacity="0.16" transform="translate(398.320341, 65.263643) scale(-1, 1) translate(-398.320341, -65.263643) " cx="398.320341" cy="65.2636428" rx="49.290477" ry="49.2807099"></ellipse>
+                    <ellipse id="Oval-Copy-21" fill-opacity="0.16" cx="59.2817899" cy="32.6318214" rx="12.655663" ry="12.6531552"></ellipse>
+                    <ellipse id="Oval-Copy-19" fill-opacity="0.16" cx="61.94614" cy="143.180441" rx="24.6452385" ry="24.640355"></ellipse>
+                    <ellipse id="Oval-Copy-16" fill-opacity="0.16" cx="245.786297" cy="247.069505" rx="15.3200131" ry="15.3169774"></ellipse>
+                    <ellipse id="Oval-Copy-13" fill-opacity="0.16" cx="81.9287658" cy="241.741861" rx="20.6487133" ry="20.6446217"></ellipse>
+                    <ellipse id="Oval-Copy-14" fill-opacity="0.16" cx="95.2505163" cy="225.758928" rx="20.6487133" ry="20.6446217"></ellipse>
+                    <ellipse id="Oval-Copy-8" fill-opacity="0.16" cx="321.054188" cy="451.517856" rx="17.3182757" ry="17.314844"></ellipse>
+                    <ellipse id="Oval-Copy-9" fill-opacity="0.16" cx="398.986429" cy="322.988437" rx="32.6382888" ry="32.6318214"></ellipse>
+                </g>
+            </g>
+            <circle id="Oval-Copy-30" fill="#282C47" cx="1055" cy="319" r="27"></circle>
+            <g id="Group-2" transform="translate(1058.000000, 306.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#F2BB42" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <polygon id="Triangle" fill="#F2BB42" transform="translate(3.000000, 12.500000) rotate(-90.000000) translate(-3.000000, -12.500000) " points="3 10 5 15 1 15"></polygon>
+                <text id="Audience-Segments" font-family="OpenSans-Bold, Open Sans" font-size="12" font-weight="bold" letter-spacing="-0.0230769256" fill="#FFFFFF">
+                    <tspan x="14" y="17">Audience Segments</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

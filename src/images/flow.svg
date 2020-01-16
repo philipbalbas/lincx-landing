@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="929px" height="338px" viewBox="0 0 929 338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-13.2%" y="-33.3%" width="126.3%" height="166.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <radialGradient cx="34.2218202%" cy="14.9951763%" fx="34.2218202%" fy="14.9951763%" r="644.789633%" gradientTransform="translate(0.342218,0.149952),scale(1.000000,0.142857),rotate(84.792741),translate(-0.342218,-0.149952)" id="radialGradient-2">
+            <stop stop-color="#38B7FA" offset="0%"></stop>
+            <stop stop-color="#245ED4" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-3" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="34.2218202%" cy="14.9951763%" fx="34.2218202%" fy="14.9951763%" r="108.809488%" id="radialGradient-15">
+            <stop stop-color="#38B7FA" offset="0%"></stop>
+            <stop stop-color="#245ED4" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-428.6%" y="-357.1%" width="871.4%" height="885.7%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-17" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-19" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-25" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="2.58000004" y="0" width="1" height="6.0200001" rx="0.430000007"></rect>
+        <filter x="-1395.3%" y="-149.5%" width="2890.7%" height="498.7%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.768627451   0 0 0 0 0.843137255   0 0 0 0 1  0 0 0 0.704490822 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Arborist-API-" transform="translate(-232.000000, -1784.000000)">
+            <g id="Group-6" transform="translate(235.000000, 1785.000000)">
+                <g id="Group-9" transform="translate(785.000000, 0.000000)">
+                    <rect id="Rectangle" stroke="#282C47" fill-rule="nonzero" x="97.0559625" y="0" width="43" height="30" rx="2"></rect>
+                    <path d="M107.055963,6.536 C108.92938,7.65850869 109.556134,10.0761874 108.464007,11.9674773 C107.371881,13.8587672 104.964632,14.5244596 103.055963,13.463 C101.793591,12.7609633 101.007775,11.4328662 101.000056,9.9884361 C100.99245,8.544006 101.764131,7.20764646 103.018983,6.49225615 C104.273835,5.77686584 105.816907,5.79358624 107.055963,6.536 Z M102.285963,8.4 C101.677764,9.39169887 101.655679,10.6353497 102.228282,11.648018 C102.800886,12.6606863 103.877964,13.2828255 105.041266,13.2728464 C106.204569,13.2628674 107.270816,12.6223424 107.825963,11.6 C108.653659,10.0757379 108.116311,8.1695493 106.614372,7.30200336 C105.112433,6.43445741 103.192756,6.92142584 102.285963,8.4 Z M105.055963,8.2 C105.276876,8.2 105.455963,8.3790861 105.455963,8.6 L105.455963,8.6 L105.455963,10.268 L105.903963,9.82 C106.06136,9.67072352 106.309057,9.67411198 106.462312,9.82763814 C106.615567,9.98116429 106.618517,10.228867 106.468963,10.386 L106.468963,10.386 L105.338963,11.517 C105.263933,11.5922251 105.162,11.6344194 105.055755,11.6342323 C104.949509,11.634044 104.847725,11.5914897 104.772963,11.516 L104.772963,11.516 L103.641963,10.386 C103.485666,10.2297034 103.485666,9.97629659 103.641963,9.82000001 C103.798259,9.66370343 104.051666,9.66370343 104.207963,9.82 L104.207963,9.82 L104.655963,10.268 L104.655963,8.6 C104.655963,8.3790861 104.835049,8.2 105.055963,8.2 Z" id="Combined-Shape" fill="#E01D5A" fill-rule="nonzero"></path>
+                    <text id="ROI" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" letter-spacing="-0.0153846171" fill="#212121">
+                        <tspan x="111.875914" y="12">ROI</tspan>
+                    </text>
+                    <text id="66%" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" letter-spacing="-0.0192307714" fill="#212121">
+                        <tspan x="111.055963" y="24">66%</tspan>
+                    </text>
+                    <g id="Group-8" transform="translate(0.000000, 3.000000)">
+                        <path d="M6.05596251,3.536 C7.92937968,4.65850869 8.55613356,7.07618736 7.46400715,8.96747727 C6.37188074,10.8587672 3.96463249,11.5244596 2.05596251,10.463 C0.793591109,9.76096335 0.00777482971,8.43286619 5.57120662e-05,6.9884361 C-0.00755032642,5.544006 0.764131238,4.20764646 2.01898331,3.49225615 C3.27383538,2.77686584 4.81690689,2.79358624 6.05596251,3.536 Z M1.28596251,5.4 C0.677764163,6.39169887 0.655678609,7.63534967 1.22828211,8.64801798 C1.8008856,9.6606863 2.87796403,10.2828255 4.04126635,10.2728464 C5.20456868,10.2628674 6.27081572,9.62234238 6.82596251,8.6 C7.65365901,7.07573789 7.11631104,5.1695493 5.61437212,4.30200336 C4.1124332,3.43445741 2.19275627,3.92142584 1.28596251,5.4 Z M4.05596251,5.2 C4.27687641,5.2 4.45596251,5.3790861 4.45596251,5.6 L4.45596251,5.6 L4.45596251,7.268 L4.90396251,6.82 C5.06135971,6.67072352 5.30905683,6.67411198 5.46231174,6.82763814 C5.61556665,6.98116429 5.61851709,7.22886701 5.46896251,7.386 L5.46896251,7.386 L4.33896251,8.517 C4.26393327,8.59222505 4.16200025,8.63441942 4.0557545,8.63423233 C3.94950875,8.63404399 3.84772546,8.5914897 3.77296251,8.516 L3.77296251,8.516 L2.64196251,7.386 C2.48566593,7.22970341 2.48566594,6.97629659 2.64196252,6.82000001 C2.7982591,6.66370343 3.05166592,6.66370343 3.20796251,6.82 L3.20796251,6.82 L3.65596251,7.268 L3.65596251,5.6 C3.65596251,5.3790861 3.83504861,5.2 4.05596251,5.2 Z" id="Combined-Shape" fill="#F2BB42" fill-rule="nonzero" transform="translate(4.000332, 6.967549) rotate(90.000000) translate(-4.000332, -6.967549) "></path>
+                        <text id="ROI" font-family="OpenSans, Open Sans" font-size="8" font-weight="normal" letter-spacing="-0.0153846171" fill="#212121">
+                            <tspan x="10.8759144" y="9">ROI</tspan>
+                        </text>
+                        <text id="66%" font-family="OpenSans-Bold, Open Sans" font-size="10" font-weight="bold" letter-spacing="-0.0192307714" fill="#212121">
+                            <tspan x="10.0559625" y="21">66%</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-8" transform="translate(0.000000, 56.000000)">
+                    <g id="Group-7">
+                        <g>
+                            <g id="Group-6">
+                                <g id="Group-2">
+                                    <circle id="Oval" fill="#0564FE" cx="15.4800003" cy="15.4800003" r="15.4800003"></circle>
+                                    <text id="1" font-family="OpenSans-Bold, Open Sans" font-size="11.1800002" font-weight="bold" fill="#FFFFFF">
+                                        <tspan x="12.0400002" y="19.7400001">1</tspan>
+                                    </text>
+                                </g>
+                                <text id="CUSTOMER-DATA" font-family="OpenSans-Bold, Open Sans" font-size="11.1800002" font-weight="bold" fill="#1F3A5A">
+                                    <tspan x="40.4200007" y="19.7400001">CUSTOMER DATA</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-6-Copy" transform="translate(364.640006, 0.000000)">
+                                <g id="Group-2">
+                                    <circle id="Oval" fill="#0564FE" cx="15.4800003" cy="15.4800003" r="15.4800003"></circle>
+                                    <text id="2" font-family="OpenSans-Bold, Open Sans" font-size="11.1800002" font-weight="bold" fill="#FFFFFF">
+                                        <tspan x="12.0400002" y="19.7400001">2</tspan>
+                                    </text>
+                                </g>
+                                <text id="DECISIONING" font-family="OpenSans-Bold, Open Sans" font-size="11.1800002" font-weight="bold" fill="#1F3A5A">
+                                    <tspan x="41.2800007" y="19.7400001">DECISIONING</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-6-Copy-2" transform="translate(736.160012, 0.000000)">
+                                <g id="Group-2">
+                                    <circle id="Oval" fill="#0564FE" cx="15.4800003" cy="15.4800003" r="15.4800003"></circle>
+                                    <text id="3" font-family="OpenSans-Bold, Open Sans" font-size="11.1800002" font-weight="bold" fill="#FFFFFF">
+                                        <tspan x="12.0400002" y="19.7400001">3</tspan>
+                                    </text>
+                                </g>
+                                <text id="PERSONALIZED-RESULTS" font-family="OpenSans-Bold, Open Sans" font-size="11.1800002" font-weight="bold" fill="#1F3A5A">
+                                    <tspan x="40.4200007" y="12.86">PERSONALIZED </tspan>
+                                    <tspan x="40.4200007" y="27.86">RESULTS</tspan>
+                                </text>
+                            </g>
+                            <g id="Padding-Group-2" filter="url(#filter-1)" transform="translate(184.000000, 74.000000)">
+                                <rect id="Rectangle" stroke="#E3E7E9" stroke-width="0.860000014" fill-opacity="0.247596154" fill="#F1F2F5" x="0.630000293" y="0.450000107" width="150.100002" height="58.6000001" rx="6.88000011"></rect>
+                                <g id="Group-4" transform="translate(137.160002, 7.020000)">
+                                    <g id="Rectangle">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                        <use fill="url(#radialGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    </g>
+                                    <g id="Rectangle-Copy" transform="translate(3.010000, 3.010000) rotate(90.000000) translate(-3.010000, -3.010000) ">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                        <use fill="url(#radialGradient-2)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                    </g>
+                                </g>
+                                <text id="Mutiple-ways-to-inte" font-family="OpenSans-Semibold, Open Sans" font-size="9.46000016" font-weight="500" fill="#39517B">
+                                    <tspan x="20.2000003" y="26.4800003">Merged with offline </tspan>
+                                    <tspan x="20.2000003" y="39.4800003">data</tspan>
+                                </text>
+                            </g>
+                            <g id="Padding-Group-2-Copy" transform="translate(743.000000, 83.000000)">
+                                <rect id="Rectangle" stroke="#E3E7E9" stroke-width="0.860000014" fill-opacity="0.247596154" fill="#F1F2F5" x="0.630000293" y="0.910000265" width="137.14" height="49.14" rx="6.88000011"></rect>
+                                <text id="Recommendations-at-c" font-family="OpenSans-Semibold, Open Sans" font-size="9.46000016" font-weight="500" fill="#39517B">
+                                    <tspan x="20.2000003" y="17.4800003">Recommendations</tspan>
+                                    <tspan x="20.2000003" y="30.4800003">at customer touchpoint.</tspan>
+                                </text>
+                            </g>
+                            <g id="Group" transform="translate(566.740009, 74.820001)">
+                                <rect id="Rectangle" stroke="#E3E7E9" stroke-width="0.860000014" fill-opacity="0.247596154" fill="#F1F2F5" x="0.430000007" y="0.430000007" width="145.340002" height="55.0400009" rx="6.88000011"></rect>
+                                <text id="Prediction-API" font-family="OpenSans-Semibold, Open Sans" font-size="9.46000016" font-weight="500" fill="#39517B">
+                                    <tspan x="39.5600007" y="31.5000004">Prediction API</tspan>
+                                </text>
+                            </g>
+                            <rect id="Rectangle" fill="#3399EE" x="362.920006" y="51.6000009" width="177.160003" height="228.760004" rx="6.88000011"></rect>
+                            <text id="Recomendation-AI" font-family="OpenSans-Bold, Open Sans" font-size="12.0400002" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="380.980006" y="80.0800011">Recomendation AI</tspan>
+                            </text>
+                            <g id="box-copy" transform="translate(0.000000, 116.100002)">
+                                <g id="Padding-Group-9-Copy" transform="translate(-3.000000, -2.000000)">
+                                    <rect id="Rectangle" stroke="#E3E7E9" stroke-width="0.860000014" fill-opacity="0.247596154" fill="#F1F2F5" x="0.910000265" y="1.31000012" width="144.800002" height="45.8800001" rx="6.88000011"></rect>
+                                    <g id="Group-4" transform="translate(131.140002, 8.880000)">
+                                        <g id="Rectangle">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                            <use fill="url(#radialGradient-2)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                        </g>
+                                        <g id="Rectangle-Copy" transform="translate(3.010000, 3.010000) rotate(90.000000) translate(-3.010000, -3.010000) ">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                            <use fill="url(#radialGradient-2)" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                        </g>
+                                    </g>
+                                    <text id="Preferences" font-family="OpenSans-Semibold, Open Sans" font-size="9.46000016" font-weight="500" fill="#39517B">
+                                        <tspan x="18.4800003" y="26.6200002">Preferences</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="box-copy-3" transform="translate(0.000000, 53.320001)">
+                                <g id="Padding-Group-9-Copy" transform="translate(-3.000000, -2.000000)">
+                                    <rect id="Rectangle" stroke="#E3E7E9" stroke-width="0.860000014" fill-opacity="0.247596154" fill="#F1F2F5" x="0.910000265" y="1.31000012" width="144.800002" height="45.8800001" rx="6.88000011"></rect>
+                                    <g id="Group-4" transform="translate(131.140002, 8.880000)">
+                                        <g id="Rectangle">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                                            <use fill="#3399EE" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                        </g>
+                                        <g id="Rectangle-Copy" transform="translate(3.010000, 3.010000) rotate(90.000000) translate(-3.010000, -3.010000) ">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                                            <use fill="#3399EE" fill-rule="evenodd" xlink:href="#path-13"></use>
+                                        </g>
+                                    </g>
+                                    <text id="Customer-traits" font-family="OpenSans-Semibold, Open Sans" font-size="9.46000016" font-weight="500" fill="#39517B">
+                                        <tspan x="18.4800003" y="26.6200002">Customer traits</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Stacked-Group" transform="translate(378.400006, 93.740002)">
+                                <g id="Padding-Group-2-Copy-4">
+                                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="146.200002" height="55.9000009" rx="6.88000011"></rect>
+                                    <g id="Group-4" filter="url(#filter-16)" transform="translate(134.160002, 6.020000)">
+                                        <g id="Rectangle">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                                            <use fill="#0564FE" fill-rule="evenodd" xlink:href="#path-17"></use>
+                                        </g>
+                                        <g id="Rectangle-Copy" transform="translate(3.010000, 3.010000) rotate(90.000000) translate(-3.010000, -3.010000) ">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                                            <use fill="#0564FE" fill-rule="evenodd" xlink:href="#path-19"></use>
+                                        </g>
+                                    </g>
+                                    <text id="Select-your-recomend" font-family="OpenSans-Semibold, Open Sans" font-size="9.46000016" font-weight="500" fill="#39517B">
+                                        <tspan x="17.2000003" y="25.4800003">Select your</tspan>
+                                        <tspan x="17.2000003" y="38.4800003">recomendation type</tspan>
+                                    </text>
+                                </g>
+                                <g id="Padding-Group-2-Copy-5" transform="translate(0.000000, 68.800001)">
+                                    <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="0" y="0" width="146.200002" height="43.0000007" rx="6.88000011"></rect>
+                                    <g id="Group-4" transform="translate(134.160002, 6.020000)">
+                                        <g id="Rectangle">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                            <use fill="#0564FE" fill-rule="evenodd" xlink:href="#path-21"></use>
+                                        </g>
+                                        <g id="Rectangle-Copy" transform="translate(3.010000, 3.010000) rotate(90.000000) translate(-3.010000, -3.010000) ">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                                            <use fill="#0564FE" fill-rule="evenodd" xlink:href="#path-23"></use>
+                                        </g>
+                                    </g>
+                                    <text id="Select-your-objectiv" font-family="OpenSans-Semibold, Open Sans" font-size="9.46000016" font-weight="500" fill="#39517B">
+                                        <tspan x="17.2000003" y="25.4800003">Select your objective</tspan>
+                                    </text>
+                                </g>
+                                <g id="Padding-Group-2-Copy-6" transform="translate(0.000000, 124.700002)">
+                                    <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="0" y="0" width="146.200002" height="43.0000007" rx="6.88000011"></rect>
+                                    <g id="Group-4" transform="translate(134.160002, 6.020000)">
+                                        <g id="Rectangle">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                                            <use fill="url(#radialGradient-2)" fill-rule="evenodd" xlink:href="#path-25"></use>
+                                        </g>
+                                        <g id="Rectangle-Copy" transform="translate(3.010000, 3.010000) rotate(90.000000) translate(-3.010000, -3.010000) ">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                                            <use fill="url(#radialGradient-2)" fill-rule="evenodd" xlink:href="#path-27"></use>
+                                        </g>
+                                    </g>
+                                    <text id="Set-business-rules" font-family="OpenSans-Semibold, Open Sans" font-size="9.46000016" font-weight="500" fill="#39517B">
+                                        <tspan x="17.2000003" y="25.4800003">Set business rules</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Group-3" transform="translate(146.630002, 75.250001)">
+                                <g id="Group" transform="translate(296.930000, 27.250001) rotate(-90.000000) translate(-296.930000, -27.250001) translate(270.430000, -269.249999)">
+                                    <g id="Group-5" transform="translate(24.940000, 12.900000)">
+                                        <line x1="1.72000003" y1="-2.44426705e-13" x2="1.72000003" y2="17.2000003" id="Line-Copy-2" stroke="#4F97E6" stroke-width="0.5" stroke-linecap="square"></line>
+                                        <polygon id="Triangle" fill="#3399EE" transform="translate(1.720000, 18.920000) rotate(180.000000) translate(-1.720000, -18.920000) " points="1.72000003 17.2000003 3.44000006 20.6400003 0 20.6400003"></polygon>
+                                    </g>
+                                    <g id="Group-5" transform="translate(24.940000, 191.780003)">
+                                        <line x1="1.72000003" y1="-2.44426705e-13" x2="1.72000003" y2="17.2000003" id="Line-Copy-2" stroke="#4F97E6" stroke-width="0.5" stroke-linecap="square"></line>
+                                        <polygon id="Triangle" fill="#4F97E6" transform="translate(1.720000, 18.920000) rotate(180.000000) translate(-1.720000, -18.920000) " points="1.72000003 17.2000003 3.44000006 20.6400003 0 20.6400003"></polygon>
+                                    </g>
+                                    <g id="Group-5-Copy" transform="translate(24.940000, 395.600007)">
+                                        <line x1="1.72000003" y1="-2.44426705e-13" x2="1.72000003" y2="17.2000003" id="Line-Copy-2" stroke="#4F97E6" stroke-width="0.5" stroke-linecap="square"></line>
+                                        <polygon id="Triangle" fill="#4F97E6" transform="translate(1.720000, 18.920000) rotate(180.000000) translate(-1.720000, -18.920000) " points="1.72000003 17.2000003 3.44000006 20.6400003 0 20.6400003"></polygon>
+                                    </g>
+                                    <g id="Group-5-Copy-2" transform="translate(24.940000, 571.900010)">
+                                        <line x1="1.72000003" y1="-2.44426705e-13" x2="1.72000003" y2="17.2000003" id="Line-Copy-2" stroke="#4F97E6" stroke-width="0.5" stroke-linecap="square"></line>
+                                        <polygon id="Triangle" fill="#4F97E6" transform="translate(1.720000, 18.920000) rotate(180.000000) translate(-1.720000, -18.920000) " points="1.72000003 17.2000003 3.44000006 20.6400003 0 20.6400003"></polygon>
+                                    </g>
+                                    <line x1="26.6600004" y1="-12.9000002" x2="26.6600004" y2="38.7000006" id="Line-Copy-3" stroke="#4F97E6" stroke-width="0.5" stroke-linecap="square" transform="translate(26.660000, 12.900000) rotate(-90.000000) translate(-26.660000, -12.900000) "></line>
+                                    <line x1="52.4600009" y1="4.73576741e-14" x2="52.4600009" y2="12.9000002" id="Line-Copy-4" stroke="#4F97E6" stroke-width="0.5" stroke-linecap="square"></line>
+                                    <line x1="0.860000014" y1="4.73576741e-14" x2="0.860000014" y2="12.9000002" id="Line-Copy-5" stroke="#4F97E6" stroke-width="0.5" stroke-linecap="square"></line>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

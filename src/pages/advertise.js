@@ -315,7 +315,6 @@ const Advertisers = () => (
           consumer converting your forms, or sale.
         </Text>
       </Box>
-
       <Flex
         sx={{
           flexWrap: ["wrap", null, "nowrap"],

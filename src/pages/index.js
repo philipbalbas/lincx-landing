@@ -123,7 +123,7 @@ const IndexPage = () => (
           <LinkButton to="/funnels" sx={{ variant: "buttons.outline" }}>
             See Funnels
           </LinkButton>
-          <LinkButton sx={{ variant: "buttons.outline" }}>
+          <LinkButton to="/arborist" sx={{ variant: "buttons.outline" }}>
             See Arborist
           </LinkButton>
         </div>
